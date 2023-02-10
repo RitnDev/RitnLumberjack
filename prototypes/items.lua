@@ -1,0 +1,9 @@
+--item
+require("prototypes.items.lumberjack-science-pack")
+require("prototypes.items.wood-board")
+require("prototypes.items.saw")
+require("prototypes.items.wooden-cube")
+require("prototypes.items.big-wooden-pole")
+require("prototypes.items.huge-wooden-pole")
+require("prototypes.items.chest")
+require("prototypes.items.scierie")

@@ -1,0 +1,171 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.8.5
+Date: 04.01.2023
+  Fixes:
+    - Fix control -> module : disco-science
+---------------------------------------------------------------------------------------------------
+Version: 0.8.4
+Date: 04.01.2023
+  Changes:
+    - Compatibilité avec RitnLib 0.7.3
+---------------------------------------------------------------------------------------------------
+Version: 0.8.3
+Date: 02.01.2023
+  Adds:
+    - Ajout de la compatibilité du mod Dectorio.
+  Changes:
+    - Changement du coût des technologies de Dectorio.
+---------------------------------------------------------------------------------------------------
+Version: 0.8.2
+Date: 01.01.2023
+  Fixes:
+    - Fix de info.json : mod optionnelle - CommuLogo.
+    - Fix lumberjack-data-update - changePrototype -> changeSubgroup.
+    - Fix lumberjack-data-update - count -> amount.
+  Changes:
+    - Changement dans les recettes et le rangements de celle-ci dans l'interface.
+    - Prise en charge du mod "Beautiful-bridge-railway".
+---------------------------------------------------------------------------------------------------
+Version: 0.8.1
+Date: 28.12.2022
+  Changes:
+    - Renommage prototype : recipe_big_wooden_pole -> big-wooden-pole
+    - Renommage prototype : recipe-large-wooden-chest -> ritn-large-wooden-chest
+    - Renommage prototype : recipe_huge_wooden_pole -> huge-wooden-pole
+    - Renommage prototype : recipe-scierie -> scierie
+    - Renommage prototype : wood-floor -> wood-board
+    - Changement de la couleur de l'item-group.
+  Fixes:
+    - Fix de la localisation : [map-gen-preset-description][Ritn]
+---------------------------------------------------------------------------------------------------
+Version: 0.8.0
+Date: 16.12.2022
+  Changes:
+    - Compatibilité avec RitnLib 0.7
+  Adds:
+    - Ajout d'un map presets pour RitnMods.
+---------------------------------------------------------------------------------------------------
+Version: 0.7.2
+Date: 05.03.2022
+  Fixes:
+    - Fix : la packe de science de production est remise sur sa recherche.
+---------------------------------------------------------------------------------------------------
+Version: 0.7.1
+Date: 03.03.2022
+  Changes:
+    - Changement de couleur des images des items-group.
+---------------------------------------------------------------------------------------------------
+Version: 0.7.0
+Date: 25.01.2022
+  Changes:
+    - BioIndustries requis.
+    - Les pack de science de bûcheron sont maintenant demandé pour faire les chimiques.
+      permet une longévité de la pack de science.
+    - Adaptation des technologies.
+    - Suppression de certaine feature intégré à BioIndustries pour un mods moins gourmand en UPS.
+    - Compatibilité avec RitnLib 0.6
+---------------------------------------------------------------------------------------------------
+Version: 0.6.4
+Date: 27.12.2021
+  Fixes:
+    - localisation english
+---------------------------------------------------------------------------------------------------
+Version: 0.6.3
+Date: 22.12.2021
+  Notes:
+    - Compatibilité avec RitnLib 0.5.5
+---------------------------------------------------------------------------------------------------
+Version: 0.6.2
+Date: 19.12.2021
+  Adds:
+    - Ajout d'option de mod pour améliorer les liens entre les RitnMods.
+---------------------------------------------------------------------------------------------------
+Version: 0.6.1
+Date: 12.11.2021
+  Notes:
+    - Compatibilité avec RitnLib 0.5.
+---------------------------------------------------------------------------------------------------
+Version: 0.6.0
+Date: 22.02.2021
+  Notes:
+    - Mod stable.
+  Changes:
+    - Mise à jour de control.lua
+---------------------------------------------------------------------------------------------------
+Version: 0.5.6
+Date: 19.02.2021
+  Fixes:
+    - Compatibilité à la version 1.1 du jeu. (graphics)
+---------------------------------------------------------------------------------------------------
+Version: 0.5.5
+Date: 23.01.2021
+  Notes:
+    - Compatibilité à la version 1.1 du jeu.
+---------------------------------------------------------------------------------------------------
+Version: 0.5.4
+Date: 28.11.2020
+  Changes:
+    - Possibilité de mettre des modules de productivité dans la recette de "Lumberjack Science Pack".
+---------------------------------------------------------------------------------------------------
+Version: 0.5.3
+Date: 11.11.2020
+  Changes:
+    - Compatibilité avec RitnLib 0.3.
+---------------------------------------------------------------------------------------------------
+Version: 0.5.2
+Date: 07.11.2020
+  Changes:
+    - Correction sur la vitesse de fabrication des cokerie et des recettes liés.
+---------------------------------------------------------------------------------------------------
+Version: 0.5.1
+Date: 05.09.2020
+  Fixes:
+    - Correction apporté lié à RitnLib.
+---------------------------------------------------------------------------------------------------
+Version: 0.5.0
+Date: 15.08.2020
+  Notes:
+    - Passage en 1.0
+---------------------------------------------------------------------------------------------------
+Version: 0.4.2
+Date: 17.07.2020
+  Fixes:
+    - Bug Fix de la compatibilité avec Dectorio.
+---------------------------------------------------------------------------------------------------
+Version: 0.4.1
+Date: 14.07.2020
+  Adds:
+    - Ajout d'une première partie de compatibilité avec Dectorio.
+  Changes:
+    - La plantation à une probabilité d'apporté 1 graine supplémentaire.
+    - Incompatibilité avec Bio Industries pour plus de cohérence.
+---------------------------------------------------------------------------------------------------
+Version: 0.4.0
+Date: 19.06.2020
+  Adds:
+    - Ajout de la scierie.
+  Changes:
+    - Les scies sont considéré comme un carburant pour la scierie afin de couper le bois.
+    - Les scies necessaires à la création des planches et des cubes ont été enlevées de leur recette respective.
+    - Réorganisation des emplacement des recettes/items du mods dans le panneau de fabrication.
+---------------------------------------------------------------------------------------------------
+Version: 0.3.8
+Date: 27.04.2020
+  Changes:
+    - Intègre directement les couleurs des Usines chimiques au lieu de le faire dans "RitnGlass".
+    - Mise à jour des icônes (science pack).
+---------------------------------------------------------------------------------------------------
+Version: 0.3.7
+Date: 06.06.2020
+  Changes:
+    - Mise à jour des icônes.
+---------------------------------------------------------------------------------------------------
+Version: 0.3.6
+Date: 27.04.2020
+  Changes:
+    - Intègre directement les couleurs des labos quand on ajoute le mod "DiscoScience".
+---------------------------------------------------------------------------------------------------
+Version: 0.3.7
+Date: 27.04.2020
+  Changes:
+    - Passage en version 0.18 du jeu.
