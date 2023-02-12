@@ -28,7 +28,7 @@ require("prototypes.category")
 require("prototypes.entity")
 require("prototypes.items")
 require("prototypes.recipes")
-require ("prototypes.map-gen-presets")
+require("prototypes.map-gen-presets")
 -----------------------------------------------------------------
 --Ajoute la recherche : lumberjack-science-pack
 RitnProtoTech:addPackLab("lumberjack-science-pack")

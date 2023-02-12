@@ -17,6 +17,9 @@ RitnProtoItem("wood"):changePrototype("place_as_tile", nil)
 
 if ritnmods.lumberjack.bio.old then 
 
+    -- change item-subgroup
+    RitnProtoItem("bi-cokery"):changeSubgroup("bio-bio-farm-raw-entity")
+
     -- delete tile place
     RitnProtoItem("seedling"):changePrototype("place_result", nil)
 
