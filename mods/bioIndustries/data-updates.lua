@@ -25,7 +25,6 @@ if ritnmods.lumberjack.bio.old then
 
     -- disable items
     RitnProtoItem("bi-arboretum-area"):changePrototype("flags", {"hidden"})
-    RitnProtoItem("bi-cokery"):changePrototype("flags", {"hidden"})
     RitnProtoItem("bi-stone-crusher"):changePrototype("flags", {"hidden"})
     RitnProtoItem("bi-cellulose"):changePrototype("flags", {"hidden"})
     RitnProtoItem("bi-large-substation"):changePrototype("flags", {"hidden"})
