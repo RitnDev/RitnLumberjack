@@ -1,6 +1,6 @@
 {
   "name": "RitnLumberjack",
-  "version": "0.8.7",
+  "version": "0.8.9",
   "title": "RitnLumberjack",
   "author": "Ritn",
   "description": "Add technologies lumberjack and others...",
@@ -8,7 +8,7 @@
   "dependencies":[
 		"base >= 1.1",
 		"RitnLib >= 0.7",
-    "Bio_Industries >= 1.1.10",
+    "Bio_Industries >= 1.1.18",
     "? CommuLogo >= 1.0",
     "? DiscoScience >= 1.0.0",
     "? beautiful_bridge_railway"

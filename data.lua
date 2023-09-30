@@ -10,10 +10,7 @@ if not ritnmods.lumberjack then ritnmods.lumberjack = {
     enabled = true,
     disassembler = true,
     dectorio = false,
-    bio = {
-        old = false,
-        new = false,
-    },
+    bio = false,
     spaceblock = false,
     commuLogo = false,
     beautifulBridge = false,
@@ -39,13 +36,7 @@ require("prototypes.update-recipes")
 require("prototypes.update-technology")
 -----------------------------------------------------------------
 --active options
-if mods["Bio_Industries"] then
-    if mods["Bio_Industries"] == "1.1.10" then 
-        ritnmods.lumberjack.bio.old = true
-    else
-        ritnmods.lumberjack.bio.new = true
-    end
-end
+if mods["Bio_Industries"] then ritnmods.lumberjack.bio = true end
 if mods["spaceblock"] then ritnmods.lumberjack.spaceblock = true end
 if mods["Dectorio"] then ritnmods.lumberjack.dectorio = true end
 if mods["CommuLogo"] then ritnmods.lumberjack.commuLogo = true end

@@ -15,7 +15,7 @@ RitnProtoTech("coal-processing-2"):disable()
 RitnProtoItem("wood"):changePrototype("place_as_tile", nil)
 
 
-if ritnmods.lumberjack.bio.old then 
+if ritnmods.lumberjack.bio then 
 
     -- change item-subgroup
     RitnProtoItem("bi-cokery"):changeSubgroup("bio-bio-farm-raw-entity")
