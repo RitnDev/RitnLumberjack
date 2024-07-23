@@ -1,21 +1,29 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.8.12
+Date: 01.07.2024
+  Adds:
+    - (QoL) Ajout : 1 "offshore-pump" pour chaque joueur.
+  Changes:
+    - (QoL) Change : 2 "bi-wood-pipe-to-ground" pour chaque joueur.
+    - (QoL) Change : 10 "bi-wood-pipe" pour chaque joueur.
+---------------------------------------------------------------------------------------------------
 Version: 0.8.11
 Date: 01.07.2024
   Adds:
-    - (QoL) Ajout : 1 "bi-bio-farm" pour chaque joueur
-    - (QoL) Ajout : 2 "bi-bio-greenhouse" pour chaque joueur
-    - (QoL) Ajout : 20 "bi-seed" pour chaque joueur
-    - (QoL) Ajout : 2 "scierie" pour chaque joueur
-    - (QoL) Ajout : 10 "saw" pour chaque joueur
-    - (QoL) Ajout : 2 "pipe-to-ground" pour chaque joueur
-    - (QoL) Ajout : 10 "pipe" pour chaque joueur
-    - (QoL) Ajout : 1 "boiler" pour chaque joueur
-    - (QoL) Ajout : 1 "steam-engine" pour chaque joueur
-    - (QoL) Ajout : 100 "wood" pour chaque joueur
-    - (QoL) Recette débloqué au départ : "bi-seed-1"
-    - (QoL) Recette débloqué au départ : "bi-seedling-1"
-    - (QoL) Recette débloqué au départ : "bi-logs-1"
-    - (QoL) Technogie débloqué au départ : "ritn-tech-lumberjack"
+    - (QoL) Ajout : 1 "bi-bio-farm" pour chaque joueur.
+    - (QoL) Ajout : 2 "bi-bio-greenhouse" pour chaque joueur.
+    - (QoL) Ajout : 20 "bi-seed" pour chaque joueur.
+    - (QoL) Ajout : 2 "scierie" pour chaque joueur.
+    - (QoL) Ajout : 10 "saw" pour chaque joueur.
+    - (QoL) Ajout : 2 "pipe-to-ground" pour chaque joueur.
+    - (QoL) Ajout : 10 "pipe" pour chaque joueur.
+    - (QoL) Ajout : 1 "boiler" pour chaque joueur.
+    - (QoL) Ajout : 1 "steam-engine" pour chaque joueur.
+    - (QoL) Ajout : 100 "wood" pour chaque joueur.
+    - (QoL) Recette débloqué au départ : "bi-seed-1".
+    - (QoL) Recette débloqué au départ : "bi-seedling-1".
+    - (QoL) Recette débloqué au départ : "bi-logs-1".
+    - (QoL) Technogie débloqué au départ : "ritn-tech-lumberjack".
 ---------------------------------------------------------------------------------------------------
 Version: 0.8.10
 Date: 26.06.2024

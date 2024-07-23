@@ -13,9 +13,10 @@ local function on_init_mod()
         created_items["bi-bio-greenhouse"] = 2 
         created_items["bi-seed"] = 20 
         created_items["scierie"] = 2   
+        created_items["offshore-pump"] = 1
         created_items["saw"] = 10     
-        created_items["pipe-to-ground"] = 2
-        created_items["pipe"] = 10
+        created_items["bi-wood-pipe-to-ground"] = 2
+        created_items["bi-wood-pipe"] = 10
         created_items["boiler"] = 1
         created_items["steam-engine"] = 1
         created_items["wood"] = 100
