@@ -20,6 +20,8 @@ local function on_init_mod()
         created_items["boiler"] = 1
         created_items["steam-engine"] = 1
         created_items["wood"] = 100
+        created_items["transport-belt"] = 100
+        created_items["burner-inserter"] = 100
         created_items["small-electric-pole"] = 15
         pcall(function() remote.call("freeplay", "set_created_items", created_items) end)
     else 
