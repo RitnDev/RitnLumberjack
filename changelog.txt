@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.8.14
+Date: 01.08.2024
+  Changes:
+    - (QoL) Ajout : 50 "inserter" pour chaque joueur à la place des 100 "burner-inserter".
+  Fixes:
+    - Ajout de 'bi-tech-coal-processing-2' en prérequis de 'plastics' (technologie).
+---------------------------------------------------------------------------------------------------
 Version: 0.8.13
 Date: 28.07.2024
   Adds:

@@ -55,7 +55,8 @@ if ritnmods.lumberjack.bio then
 
     RitnProtoTech("bi-tech-coal-processing-2"):addPack("lumberjack-science-pack")
     RitnProtoTech("bi-tech-coal-processing-3"):addPack("lumberjack-science-pack")
-    
+    RitnProtoTech("plastics"):addPrerequisite("bi-tech-coal-processing-2")
+
     rProtoTech = RitnProtoTech("bi-tech-advanced-biotechnology")
     rProtoTech:addPack("lumberjack-science-pack")
     rProtoTech:addPrerequisite("automation")
